@@ -1,6 +1,8 @@
 # 🌊 SONAR ROCK VS MINE CLASSIFICATION 🚀
 
 ![Banner](images/banner.png)
+[![Open in Colab](https://colab.research.google.com/drive/1Mv4s36_jMpitXrTupEVJeuSZNPKwC7Qu?usp=sharing)]
+
 
 ## 📌 Project Overview
 
@@ -10,18 +12,6 @@ This project builds a **Binary Classification Model** to detect whether a sonar 
 - 💣 Mine (M)
 
 We use **Logistic Regression** to classify underwater objects based on sonar frequency data.
-
----
-
-## 🧠 Machine Learning Concepts Covered
-
-- Binary Classification
-- Logistic Regression
-- Sigmoid Function
-- Feature Scaling
-- Train/Test Split
-- Overfitting vs Underfitting
-- Confusion Matrix
 
 ---
 
@@ -48,7 +38,7 @@ We use **Logistic Regression** to classify underwater objects based on sonar fre
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sonar-Rock-vs-Mine-Classification.git
+git clone https://github.com/SafaBelh/Sonar-Rock-vs-Mine-Classification
 cd Sonar-Rock-vs-Mine-Classification
 ```
 
@@ -70,8 +60,8 @@ python sonar_classification.py
 
 | Metric            | Value |
 | ----------------- | ----- |
-| Training Accuracy | XX%   |
-| Test Accuracy     | XX%   |
+| Training Accuracy | 91%   |
+| Test Accuracy     | 76%   |
 
 ---
 
