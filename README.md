@@ -1,7 +1,7 @@
 # 🌊 Sonar Rock vs. Mine Classification 🚀
 
 ![Banner](images/banner.png)
-[![Open in Colab](https://colab.research.google.com/drive/1Mv4s36_jMpitXrTupEVJeuSZNPKwC7Qu?usp=sharing)](https://colab.research.google.com/drive/1Mv4s36_jMpitXrTupEVJeuSZNPKwC7Qu?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mv4s36_jMpitXrTupEVJeuSZNPKwC7Qu)
 
 ## 📌 Project Overview
 
